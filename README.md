@@ -14,3 +14,4 @@ To build, simply:
 1. Runs `npm install` to install dependencies.
 2. Runs `npm test` to run Mocha and execute the unit tests.
 
+[![Build Status](https://dev.azure.com/mvz-2022/Integrating%20External%20Source%20Control%20With%20Azure%20Pipelines/_apis/build/status/mvz-2022.calculator?branchName=refs%2Fpull%2F1%2Fmerge)](https://dev.azure.com/mvz-2022/Integrating%20External%20Source%20Control%20With%20Azure%20Pipelines/_build/latest?definitionId=7&branchName=refs%2Fpull%2F1%2Fmerge)
